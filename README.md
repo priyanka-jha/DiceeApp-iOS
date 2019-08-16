@@ -1,5 +1,5 @@
 # DiceeApp-iOS
-A sample iOS app showing changing of dice images randomly on button click and upon shaking the device.
+A sample iOS app showing changing of dice images randomly on button click and upon shaking the device using gesture detector.
 
 **Here is the screenshot:**
 
